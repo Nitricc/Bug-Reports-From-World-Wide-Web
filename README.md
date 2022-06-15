@@ -1,1 +1,1 @@
-# SomeBugReportsfFrom kontur.ru-search
+# SomeBugReportsfFrom kontur.ru/search
